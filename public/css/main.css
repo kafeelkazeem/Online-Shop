@@ -37,6 +37,7 @@ main {
 
 .main-header__item {
   margin: 0 1rem;
+  margin-top: 1rem;
   padding: 0;
 }
 
